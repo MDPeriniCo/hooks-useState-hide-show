@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom'
-import './styles.css'
+import './index.css'
 
 const App = ({posts}) => {
     const [openIndex, setOpenIndex] = React.useState(0)
